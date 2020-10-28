@@ -1,0 +1,6 @@
+*.py[cod]
+
+/CarND-Capstone-markgao/build
+/CarND-Capstone-markgao/devel
+
+profile.tmp
